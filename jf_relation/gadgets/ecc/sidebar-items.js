@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["non_native"],"struct":["Point","PointVariable"],"trait":["MultiScalarMultiplicationCircuit","SWToTEConParam"]};

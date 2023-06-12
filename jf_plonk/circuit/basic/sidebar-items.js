@@ -1,1 +1,0 @@
-initSidebarItems({"struct":[["PlonkCircuit","A specific Plonk circuit instantiation."]]});
